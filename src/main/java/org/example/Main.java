@@ -36,6 +36,11 @@ public class Main {
         System.out.println();
         System.out.println();
     }
+        public static void jamshid111(){
+            System.out.println("Hello");
+            public static void nnn(){
+                System.out.println("kkk");
+            }
 
         System.out.println(new Locale.Builder().build().clone());
 
