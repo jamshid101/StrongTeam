@@ -51,5 +51,6 @@ public class Main {
 
         public static void Nodir() {
         System.out.println("salom");
+                System.out.println("mmmmmmm");
     }
 }
