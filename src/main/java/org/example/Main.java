@@ -34,6 +34,9 @@ public class Main {
     public static void JAVA(){
         System.out.println();
         System.out.println();
+
+            System.out.println("jjjjjjjj");
+
         System.out.println();
     }
         public static void jamshid111(){
@@ -53,5 +56,7 @@ public class Main {
         System.out.println("salom");
                 System.out.println("mmmmmmm");
                 System.out.println("mmmmmmm");
+
+
     }
 }
