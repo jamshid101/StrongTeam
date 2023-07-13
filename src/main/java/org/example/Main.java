@@ -48,6 +48,7 @@ public class Main {
         System.out.println(new Locale.Builder().build().clone());
 
 
+
         public static void Nodir() {
         System.out.println("salom");
     }
