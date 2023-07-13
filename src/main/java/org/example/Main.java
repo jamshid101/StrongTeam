@@ -40,6 +40,7 @@ public class Main {
                 System.out.println("kkk");
             }
 
+
     public static void Nodir() {
         System.out.println("salom");
     }
