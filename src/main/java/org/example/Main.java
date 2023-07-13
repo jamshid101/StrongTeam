@@ -30,6 +30,7 @@ public class Main {
     }
     public static void sjdcfs(){
         System.out.println();
+            System.out.println("kkkkkkk");
     }
     public static void JAVA(){
         System.out.println();
