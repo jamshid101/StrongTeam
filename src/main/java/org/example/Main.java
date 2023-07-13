@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.Locale;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
@@ -47,8 +49,10 @@ public class Main {
         System.out.println(new Locale.Builder().build().clone());
 
 
+
         public static void Nodir() {
         System.out.println("salom");
-
+                System.out.println("mmmmmmm");
+                System.out.println("mmmmmmm");
     }
 }
