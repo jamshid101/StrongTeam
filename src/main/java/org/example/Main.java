@@ -42,6 +42,8 @@ public class Main {
         public static void jamshid111(){
             System.out.println("Hello");
             public static void nnn(){
+
+            }
                 System.out.println("kkk");
             }
 
